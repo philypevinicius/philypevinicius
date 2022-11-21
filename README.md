@@ -3,11 +3,11 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python e PHP
-
+##
 
 <div align="center">
   <a href="https://github.com/philypevinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philypevinicius&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philypevinicius&count_private=true&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philypevinicius&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +20,6 @@
 </div>
   
   ##
-  
   <div> 
   <a href="https://www.linkedin.com/in/philype-vinicius-4852b216a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "https://t.me/PhilypeVinicius01"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
